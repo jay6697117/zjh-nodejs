@@ -1,0 +1,14 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "cat styudy module",
+  "main": "./lib/main.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
